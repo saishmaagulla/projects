@@ -3,14 +3,14 @@
 ## Education 🎓
 
 ### Master of Science in Computer Science
-**Wright State University**
-📍 *Dayton, Ohio*
+**Wright State University**  
+📍 *Dayton, Ohio*  
 📅 *Graduation: December 2024*
 
 ### B.Tech in Information Technology
-**Vardhaman College of Engineering**
-📍 *Hyderabad, Telangana*
-📅 *Graduation: May 2018*
+**Vardhaman College of Engineering**  
+📍 *Hyderabad, Telangana*  
+📅 *Graduation: May 2018*  
 
 
 ## 💼 Work Experience
