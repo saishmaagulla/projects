@@ -4,13 +4,13 @@
 
 ### Master of Science in Computer Science
 **Wright State University**
-    📍 Dayton, Ohio
-    📅 Graduation: December 2024
+📍 *Dayton, Ohio*
+📅 *Graduation: December 2024*
 
 ### B.Tech in Information Technology
 **Vardhaman College of Engineering**
-    📍 Hyderabad, Telengana
-    📅 Graduation: May 2018
+📍 *Hyderabad, Telangana*
+📅 *Graduation: May 2018*
 
 
 ## 💼 Work Experience
